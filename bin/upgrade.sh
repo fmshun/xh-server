@@ -1,0 +1,1 @@
+./bin/stop.sh && git pull && ./bin/start.sh
